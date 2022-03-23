@@ -20,6 +20,7 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 #### Languages
 
 <!-- github-stats:start -->
+![Randall's Github Stats](https://metrics.lecoq.io/rwerplus)
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=rwerplus&show_icons=true&icon_color=8F8CE7&title_color=8F8CE7&include_all_commits=true"/>
