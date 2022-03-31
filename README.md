@@ -1,4 +1,4 @@
-### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)花椒和邻居. 👋
+### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（花椒和邻居）. 👋
 
 <img align="right" width="200" height="400" src="https://mmbiz.qpic.cn/mmbiz_png/XK6iaVPw7ianO0w62TgOrCMmaoYEUOswHm23Nx9aNv03cDUVGQRdThL2zricWFYz3bZ5Uic4vmaTiarVdXugPnK2nxg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1">
 
