@@ -1,6 +1,6 @@
 ### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（花椒和邻居）. 👋
 
-<img align="right" width="200" height="400" src="https://d33wubrfki0l68.cloudfront.net/ddf49425628d8aec7523db143916b34ae1641e11/b97e8/images/gopher-side_color.svg">
+<img align="right" width="200" height="400" src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus@master/6c783c15a42562ee12960af9cbf314d-1.7eiqqi126co0.webp">
 
 I am a learning master student from China, core team member of [null](https://github.com/null).
 I like open source and all interesting things and want to try to do it.
