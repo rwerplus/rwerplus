@@ -1,6 +1,6 @@
 ### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（花椒和邻居）. 👋
 
-<img align="right" width="260" height="280" src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus@master/6c783c15a42562ee12960af9cbf314d-1.7eiqqi126co0.webp">
+<img align="right" width="260" height="280" src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus@master/scripts/6d8542177af8c967e00959327b534f3.1vfuctskrhj4.webp">
 
 I am a learning master student from China, core team member of [null](https://github.com/null).
 I like open source and all interesting things and want to try to do it.
