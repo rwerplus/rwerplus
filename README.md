@@ -40,7 +40,6 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- languages:end -->
 
 #### Frameworks and Tools
