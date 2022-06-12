@@ -68,7 +68,7 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 
 🏂🏿🙏🙏🙏🙏🙏🙏🙏🏂🏿
 
----
+--- 
 
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically. You can see [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus).
