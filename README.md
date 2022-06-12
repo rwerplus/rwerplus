@@ -19,7 +19,6 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 
 #### Languages
 
-<!-- github-stats:start -->
 ![Randall's Github Stats](https://metrics.lecoq.io/rwerplus)
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
