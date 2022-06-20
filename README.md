@@ -14,7 +14,7 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [YYS](https://yys.163.com/).
 - 💬 Be free to ask me about anything [here](https://github.com/rwerplus/hyuga/issues).
-- 😷 The recent epidemic is serious, please pay attention to personal protection!
+
 ---
 
 #### Languages
