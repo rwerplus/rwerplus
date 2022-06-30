@@ -10,9 +10,9 @@ I want to be an interesting person and create something that can be remembered b
 The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus), he will speak for me in the virtual world.
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/rwerplus/hyuga), want to work for [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
-- 🌱 I’m currently learning Computer Graphics & dnf & 阴阳师, and want to learn everything interesting.
+- 🌱 I’m currently learning Computer Graphics & dnf & Onmyoji, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [YYS](https://yys.163.com/).
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [Onmyoji](https://yys.163.com/).
 - 💬 Be free to ask me about anything [here](https://github.com/rwerplus/hyuga/issues).
 ---
 
@@ -71,7 +71,8 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically. You can see [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus).
-> Or if you interested in YYS, you can play with me, just search 花椒和邻居.
+> Or if you interested in Onmyoji, you can play with me, just search 花椒和邻居.
+
 ---
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
