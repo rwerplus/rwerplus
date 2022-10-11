@@ -1,4 +1,4 @@
-### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（花椒和邻居）. 👋
+### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Peak Wong）. 👋
 
 <img align="right" width="290" height="340" src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus@master/scripts/gopher-side_color.2zgv3nn3qvg0.webp">
 
@@ -7,7 +7,7 @@ I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
-The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus), he will speak for me in the virtual world.
+The one on the right is [Peak Wong](https://github.com/rwerplus/rwerplus), he will speak for me in the virtual world.
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/rwerplus/hyuga), want to work for [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
 - 🌱 I’m currently learning Computer Graphics & dnf & Onmyoji, and want to learn everything interesting.
@@ -75,11 +75,11 @@ The one on the right is [花椒和邻居](https://github.com/rwerplus/rwerplus),
 
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically. You can see [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus).
-> Or if you interested in Onmyoji, you can play with me, just search 花椒和邻居.
+> Or if you interested in Onmyoji, you can play with me, just search Peak Wong.
 
 ---
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like 花椒和邻居 or my projects, you can buy me a 🍉 / 🍟 / 🥤 at [GitHub Sponsors](https://github.com/sponsors/rwerplus) or 💰 [sponsors.rwerplus.cn](https://sponsors.rwerplus.cn/).
+If you like Peak Wong or my projects, you can buy me a 🍉 / 🍟 / 🥤 at [GitHub Sponsors](https://github.com/sponsors/rwerplus) or 💰 [sponsors.rwerplus.cn](https://sponsors.rwerplus.cn/).
 <!-- just modify the docs 2022年9月19日09:29:17 -->
