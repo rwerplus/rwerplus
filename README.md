@@ -1,4 +1,4 @@
-### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Peak Wong）. 👋
+### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Peak Wong）. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <img align="right" width="290" height="340" src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus@master/scripts/gopher-side_color.2zgv3nn3qvg0.webp">
 
