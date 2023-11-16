@@ -1,4 +1,4 @@
-### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Peak Wong）. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Chino dentist Ko）. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <img align="right" width="340" height="340" src="https://cdn.staticaly.com/gh/rwerplus/rwer-images@master/mine.5wl4py3dyts0.webp">
 
