@@ -1,6 +1,6 @@
 ### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（Chino dentist Ko）. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img align="right" width="340" height="340" src="https://sm.ms/image/hcHjFDUp8GCz5Pu">
+<img align="right" width="340" height="340" src="https://s2.loli.net/2024/01/29/hcHjFDUp8GCz5Pu.webp">
 
 I am a learning master student from China, core team member of [null](https://github.com/null).
 I like open source and all interesting things and want to try to do it.
