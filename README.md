@@ -1,115 +1,122 @@
+<div align="center">
 
-### Hi there, I'm [rwerplus](https://rwerplus.github.io/)（SageWizWang） <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!-- 顶部装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SageWizWang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✦%20rwerplus%20✦%20Creating%20something%20to%20be%20remembered&descAlignY=54&descSize=16" width="100%"/>
 
-> 🍃 *「羁绊，才是我真正的力量。」* —— 也许这就是开源的魅力吧。  
-> ⚡ *「这并不是结束，而是一场冒险的开始……」*
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;
+**やあ、ようこそ！ Welcome to my little world.** &nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
----
-
-<!-- <img align="right" width="160" height="260" src="https://s2.loli.net/2024/01/29/hcHjFDUp8GCz5Pu.webp">-->
-
-🌸 现役研究生 / 开源世界的修行者 / 来自东方的大魔法师 🌸  
-🌙 [null](https://github.com/null) **核心成员** — 在代码的次元里，寻找属于自己的道  
-
-✨ **座右铭**：*想成为一个有趣的人，创造一些能被记住的东西*  
-🦊 虚拟世界的代言人 👉 [SageWizWang](https://github.com/rwerplus/rwerplus)
+</div>
 
 ---
 
-### ⚔️ 冒险日志
+<img align="right" width="320" src="https://s2.loli.net/2024/01/29/hcHjFDUp8GCz5Pu.webp" style="border-radius: 12px;"/>
 
-| 🗺️ 当前状态 | 说明 |
-|---|---|
-| 📜 **修行中** | 正在打磨一些业余的[开源项目](https://github.com/rwerplus/hyuga)，愿为 [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/) 献上代码之力 |
-| 📖 **研读卷轴** | 修行方向：计算机图形学、地下城(DNF)、平安京(Onmyoji)……一切有趣之物 |
-| 🎭 **终极奥义** | 打造一个**纯前端 AVG 引擎** —— [advjs](https://www.advjs.org/)，用 HTML & CSS 编织属于文字冒险的世界 |
+## ✦ 关于我 / About Me
 
----
+> *"我想成为一个有趣的人，并创造能被他人铭记的东西。"*
+> 
+> *I want to be an interesting person and create something that can be remembered by others.*
 
-### 🍉 兴趣图鉴
+&nbsp;
 
-> 每一个兴趣都是一颗星，汇聚成我的宇宙 ✨
+来自中国的研究生在读 🎓，热爱开源与一切有趣的事物。\
+右侧那位是 **[SageWizWang](https://github.com/rwerplus/rwerplus)**，他将在虚拟世界中代表我发声。
 
-| 图鉴 | 状态 |
-|---|---|
-| 🍉 吃西瓜 | ⭐⭐⭐⭐⭐ *修行之余的最大乐趣* |
-| 🐓 养鸡 | ⭐⭐⭐⭐ *看着它们成长，就像看着自己的项目* |
-| 🏓 乒乓球 | ⭐⭐⭐ *在代码与球拍之间反复横跳* |
-| 🛌 睡觉 | ⭐⭐⭐⭐⭐ *灵感有时在梦中降临* |
-| 📺 追番 (阴阳师) | ⭐⭐⭐⭐⭐ *平安京の日常 [Onmyoji](https://yys.163.com/)* |
+&nbsp;
 
----
-
-### 💬 召唤方式
-
-> 有事想找我？放心，我不咬人（大概）😏  
-> [👉 GitHub Issues](https://github.com/rwerplus/hyuga/issues)
-
----
-
-### 🌟 技能树
-
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-#### ⚒️ 编程语言
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-
-#### 🧙 框架与法器
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
-
-#### 🔮 探索中的术式
-<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
----
-
-### 📊 冒险者数据
-
-![Randall's Github Stats](https://metrics.lecoq.io/rwerplus)
-
+<details>
+<summary>📖 <b>日常碎碎念 / Daily Life</b></summary>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwerplus&show_icons=true&icon_color=8F8CE7&title_color=8F8CE7&include_all_commits=true)
+- 🔭 &nbsp;正在写一些业余 **[开源项目](https://github.com/rwerplus/hyuga)**，梦想入职 [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/)
+- 🌱 &nbsp;学习中：**计算机图形学** & **DNF** & **阴阳师**，还有一切感兴趣的东西
+- 🤔 &nbsp;野心项目：纯前端 AVG 引擎 **[advjs](https://www.advjs.org/)**（比 canvas 更多的 html & css）
+- ❤️ &nbsp;日常爱好：吃🍉 · 养🐓 · 打🏓 · 睡懒觉🛌 · 看[阴阳师](https://yys.163.com/)📺
+- 💬 &nbsp;什么都可以来问我 → [Issues](https://github.com/rwerplus/hyuga/issues)
+
+</details>
+
+&nbsp;
 
 ---
 
-### 🔥 加入这场冒险
+## ✦ 技术栈 / Tech Stack
 
-> 如果你也喜欢开源，喜欢折腾有趣的东西，欢迎一起来！  
-> 这个世界（仓库）永远欢迎新的冒险者 🚀
+<div align="center">
 
-🏂🏿🙏🙏🙏🙏🙏🙏🙏🏂🏿
+#### 🌸 语言 / Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🌙 框架与工具 / Frameworks & Tools
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### ⭐ 感兴趣 / Interested In
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Cocos](https://img.shields.io/badge/Cocos-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
+
+</div>
 
 ---
 
-> 📝 *P.S. 好奇这个列表是怎么自动生成的吗？*  
-> 我写了个脚本帮你一键搞定 👉 [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus) 
+## ✦ GitHub 数据 / Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rwerplus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=c792ea&text_color=a9b1d6&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwerplus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=a9b1d6"/>
+
+<br/><br/>
+
+![rwerplus's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rwerplus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c792ea&line=7aa2f7&point=c792ea)
+
+![Metrics](https://metrics.lecoq.io/rwerplus)
+
+</div>
 
 ---
 
-### 🎁 投喂指南
+## ✦ 联系 / Connect
 
-> 如果你觉得 SageWizWang 或者我的项目还不错，可以请我吃 🍉 / 🍟 / 🥤，让我有体力继续在这个次元里冒险！
+<div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor.svg" width="200"/>](https://github.com/sponsors/rwerplus)
-[<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor2.svg" width="200"/>](https://sponsors.rwerplus.cn/)
+如果你喜欢我的项目，可以请我吃：🍉 西瓜 / 🍟 薯条 / 🥤 饮料
 
-```
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-❤️%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/rwerplus)
+[![Sponsors](https://img.shields.io/badge/Sponsors-💰%20赞助-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMy41IDIwLjVoMTdMMTIgMnoiLz48L3N2Zz4=&logoColor=black)](https://sponsors.rwerplus.cn/)
+
+&nbsp;
+
+*你也可以在侧边栏找到更多联系方式，欢迎 Follow ✦*
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- 底部装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+
+<sub>🏂🏿 &nbsp; 有意思才是最重要的 · Only interesting things matter &nbsp; 🏂🏿</sub>
+
+</div>
