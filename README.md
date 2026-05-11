@@ -1,40 +1,56 @@
 <div align="center">
 
-<!-- 顶部装饰 -->
+<!-- ヘッダー -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=SageWizWang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✦%20rwerplus%20✦%20Creating%20something%20to%20be%20remembered&descAlignY=54&descSize=16" width="100%"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;
-**やあ、ようこそ！ Welcome to my little world.** &nbsp;
+**やあ、ようこそ！僕の小さな世界へ。** &nbsp;
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 </div>
 
 ---
 
-<img align="right" width="320" src="https://s2.loli.net/2024/01/29/hcHjFDUp8GCz5Pu.webp" style="border-radius: 12px;"/>
+<img align="right" width="180" src="https://api.dicebear.com/9.x/adventurer/svg?seed=SageWizWang&backgroundColor=b6e3f4,c0aede,d1d4f9&backgroundType=gradientLinear&eyes=variant06,variant12,variant17&hair=long19,long20,long21&skinColor=ecad80,f2d3b1" style="border-radius: 50%; border: 3px solid #c792ea;"/>
 
-## ✦ 关于我 / About Me
+## ✦ 自己紹介
 
-> *"我想成为一个有趣的人，并创造能被他人铭记的东西。"*
-> 
-> *I want to be an interesting person and create something that can be remembered by others.*
+> *「面白い人間でありたい。そして、誰かの記憶に残るものを生み出したい。」*
 
 &nbsp;
 
-来自中国的研究生在读 🎓，热爱开源与一切有趣的事物。\
-右侧那位是 **[SageWizWang](https://github.com/rwerplus/rwerplus)**，他将在虚拟世界中代表我发声。
+**Agent エンジニア** 🤖 として、LLM を使った自律エージェントの設計・開発に取り組んでいます。\
+オープンソースと面白いものすべてが大好き。\
+右側にいるのは **[SageWizWang](https://github.com/rwerplus/rwerplus)**、バーチャル世界での僕の分身です。
+
+&nbsp;
+
+![Agent Engineer](https://img.shields.io/badge/Agent%20Engineer-本業-c792ea?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-大規模言語モデル-7aa2f7?style=flat-square&logo=anthropic&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-大好き-73daca?style=flat-square&logo=github&logoColor=black)
 
 &nbsp;
 
 <details>
-<summary>📖 <b>日常碎碎念 / Daily Life</b></summary>
+<summary>🤖 <b>AI への取り組み</b></summary>
 <br>
 
-- 🔭 &nbsp;正在写一些业余 **[开源项目](https://github.com/rwerplus/hyuga)**，梦想入职 [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/)
-- 🌱 &nbsp;学习中：**计算机图形学** & **DNF** & **阴阳师**，还有一切感兴趣的东西
-- 🤔 &nbsp;野心项目：纯前端 AVG 引擎 **[advjs](https://www.advjs.org/)**（比 canvas 更多的 html & css）
-- ❤️ &nbsp;日常爱好：吃🍉 · 养🐓 · 打🏓 · 睡懒觉🛌 · 看[阴阳师](https://yys.163.com/)📺
-- 💬 &nbsp;什么都可以来问我 → [Issues](https://github.com/rwerplus/hyuga/issues)
+- 🧠 &nbsp;**AI Agent** エコシステムを深く研究中：フレームワーク設計・プロダクト実装・アーキテクチャ
+- 🔬 &nbsp;**LLMアプリケーション層**・**マルチエージェントシステム**・**Agent評価手法** に興味あり
+- 🛠️ &nbsp;**AgentScope** や **ModelScope** などのオープンソースプロジェクトを探求中
+- 🌐 &nbsp;[ModelScope](https://modelscope.cn/) エコシステムとオープンソース LLM ツールチェーンをウォッチ中
+
+</details>
+
+<details>
+<summary>📖 <b>日常のこと</b></summary>
+<br>
+
+- 🔭 &nbsp;趣味の **[オープンソースプロジェクト](https://github.com/rwerplus/hyuga)** を執筆中。夢は面白い Agent プロダクトを世に出すこと
+- 🌱 &nbsp;勉強中：**マルチエージェント設計** & **AI** & **AGENT**、面白いものなら何でも
+- 🤔 &nbsp;野心的プロジェクト：自律型 Agent が協調して動く **マルチエージェントフレームワーク** を自作したい
+- ❤️ &nbsp;趣味：🍉 を食べる · 🐓 を育てる · 🏓 卓球 · 🛌 昼寝 · 📺 を観る
+- 💬 &nbsp;何でも気軽に聞いてください → [Issues](https://github.com/rwerplus/hyuga/issues)
 
 </details>
 
@@ -42,31 +58,40 @@
 
 ---
 
-## ✦ 技术栈 / Tech Stack
+## ✦ 技術スタック
 
 <div align="center">
 
-#### 🌸 语言 / Languages
+#### 🤖 AI・機械学習
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ModelScope](https://img.shields.io/badge/ModelScope-5C6BC0?style=for-the-badge&logo=alibabadotcom&logoColor=white)
+
+#### 🧠 LLM プロバイダー & ツール
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### 🌸 言語
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🌙 框架与工具 / Frameworks & Tools
+#### 🌙 ツール & 環境
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### ⭐ 感兴趣 / Interested In
+#### ⭐ 興味のあること
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
@@ -77,7 +102,7 @@
 
 ---
 
-## ✦ GitHub 数据 / Stats
+## ✦ GitHub スタッツ
 
 <div align="center">
 
@@ -87,7 +112,7 @@
 
 <br/><br/>
 
-![rwerplus's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rwerplus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c792ea&line=7aa2f7&point=c792ea)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rwerplus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c792ea&line=7aa2f7&point=c792ea)
 
 ![Metrics](https://metrics.lecoq.io/rwerplus)
 
@@ -95,18 +120,18 @@
 
 ---
 
-## ✦ 联系 / Connect
+## ✦ コンタクト
 
 <div align="center">
 
-如果你喜欢我的项目，可以请我吃：🍉 西瓜 / 🍟 薯条 / 🥤 饮料
+プロジェクトが気に入ったら、🍉 スイカ / 🍟 ポテト / 🥤 ドリンクを奢ってくれると嬉しいです！
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-❤️%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/rwerplus)
-[![Sponsors](https://img.shields.io/badge/Sponsors-💰%20赞助-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMy41IDIwLjVoMTdMMTIgMnoiLz48L3N2Zz4=&logoColor=black)](https://sponsors.rwerplus.cn/)
+[![Sponsors](https://img.shields.io/badge/Sponsors-💰%20支援する-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMy41IDIwLjVoMTdMMTIgMnoiLz48L3N2Zz4=&logoColor=black)](https://sponsors.rwerplus.cn/)
 
 &nbsp;
 
-*你也可以在侧边栏找到更多联系方式，欢迎 Follow ✦*
+*サイドバーで他の連絡先も確認できます。ぜひフォローしてね ✦*
 
 </div>
 
@@ -114,9 +139,8 @@
 
 <div align="center">
 
-<!-- 底部装饰 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
-<sub>🏂🏿 &nbsp; 有意思才是最重要的 · Only interesting things matter &nbsp; 🏂🏿</sub>
+<sub>🏂🏿 &nbsp; 面白いことが一番大事 · Only interesting things matter &nbsp; 🏂🏿</sub>
 
 </div>
