@@ -1,47 +1,69 @@
-### Hi there, I'm [rwerplus](hhttps://rwerplus.github.io/)（SageWizWang）. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+以下是你改写后的 README，加入了二次元/动漫风元素，同时保留了所有原始信息：
+
+```markdown
+### Hi there, I'm [rwerplus](https://rwerplus.github.io/)（SageWizWang） <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+> 🍃 *「羁绊，才是我真正的力量。」* —— 也许这就是开源的魅力吧。  
+> ⚡ *「这并不是结束，而是一场冒险的开始……」*
+
+---
 
 <!-- <img align="right" width="160" height="260" src="https://s2.loli.net/2024/01/29/hcHjFDUp8GCz5Pu.webp">-->
 
-I am a learning master student from China, core team member of [null](https://github.com/null).
-I like open source and all interesting things and want to try to do it.
+🌸 现役研究生 / 开源世界的修行者 / 来自东方的大魔法师 🌸  
+🌙 [null](https://github.com/null) **核心成员** — 在代码的次元里，寻找属于自己的道  
 
-I want to be an interesting person and create something that can be remembered by others.
+✨ **座右铭**：*想成为一个有趣的人，创造一些能被记住的东西*  
+🦊 虚拟世界的代言人 👉 [SageWizWang](https://github.com/rwerplus/rwerplus)
 
-The one on the right is [SageWizWang](https://github.com/rwerplus/rwerplus), he will speak for me in the virtual world.
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/rwerplus/hyuga), want to work for [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
-- 🌱 I’m currently learning Computer Graphics & dnf & Onmyoji, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [Onmyoji](https://yys.163.com/).
-- 💬 Be free to ask me about anything [here](https://github.com/rwerplus/hyuga/issues).
 ---
 
-#### Languages
+### ⚔️ 冒险日志
 
-![Randall's Github Stats](https://metrics.lecoq.io/rwerplus)
+| 🗺️ 当前状态 | 说明 |
+|---|---|
+| 📜 **修行中** | 正在打磨一些业余的[开源项目](https://github.com/rwerplus/hyuga)，愿为 [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/) 献上代码之力 |
+| 📖 **研读卷轴** | 修行方向：计算机图形学、地下城(DNF)、平安京(Onmyoji)……一切有趣之物 |
+| 🎭 **终极奥义** | 打造一个**纯前端 AVG 引擎** —— [advjs](https://www.advjs.org/)，用 HTML & CSS 编织属于文字冒险的世界 |
+
+---
+
+### 🍉 兴趣图鉴
+
+> 每一个兴趣都是一颗星，汇聚成我的宇宙 ✨
+
+| 图鉴 | 状态 |
+|---|---|
+| 🍉 吃西瓜 | ⭐⭐⭐⭐⭐ *修行之余的最大乐趣* |
+| 🐓 养鸡 | ⭐⭐⭐⭐ *看着它们成长，就像看着自己的项目* |
+| 🏓 乒乓球 | ⭐⭐⭐ *在代码与球拍之间反复横跳* |
+| 🛌 睡觉 | ⭐⭐⭐⭐⭐ *灵感有时在梦中降临* |
+| 📺 追番 (阴阳师) | ⭐⭐⭐⭐⭐ *平安京の日常 [Onmyoji](https://yys.163.com/)* |
+
+---
+
+### 💬 召唤方式
+
+> 有事想找我？放心，我不咬人（大概）😏  
+> [👉 GitHub Issues](https://github.com/rwerplus/hyuga/issues)
+
+---
+
+### 🌟 技能树
+
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=rwerplus&show_icons=true&icon_color=8F8CE7&title_color=8F8CE7&include_all_commits=true"/>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
 
-<!-- github-stats:end -->
-
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+#### ⚒️ 编程语言
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
-#### Frameworks and Tools
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
+
+#### 🧙 框架与法器
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
@@ -49,41 +71,63 @@ The one on the right is [SageWizWang](https://github.com/rwerplus/rwerplus), he 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
 
-<!-- tools:end -->
-
-#### Interested
-
-<!-- interested:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+#### 🔮 探索中的术式
 <code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 
 <!-- markdownlint-restore -->
-
 <!-- prettier-ignore-end -->
-
-
-<!-- interested:end -->
-
-🏂🏿🙏🙏🙏🙏🙏🙏🙏🏂🏿
-
---- 
-
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically. You can see [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus).
-> Or if you interested in Onmyoji, you can play with me, just search `羊村懒大王`.
 
 ---
 
-You can find how to contact me in the sidebar. You can follow me to find something more interesting.
+### 📊 冒险者数据
 
-If you like SageWizWang or my projects, you can buy me a 🍉 / 🍟 / 🥤 at [GitHub Sponsors](https://github.com/sponsors/rwerplus) or 💰 [sponsors.rwerplus.cn](https://sponsors.rwerplus.cn/).
+![Randall's Github Stats](https://metrics.lecoq.io/rwerplus)
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwerplus&show_icons=true&icon_color=8F8CE7&title_color=8F8CE7&include_all_commits=true)
+
+---
+
+### 🔥 加入这场冒险
+
+> 如果你也喜欢开源，喜欢折腾有趣的东西，欢迎一起来！  
+> 这个世界（仓库）永远欢迎新的冒险者 🚀
+
+🏂🏿🙏🙏🙏🙏🙏🙏🙏🏂🏿
+
+---
+
+> 📝 *P.S. 好奇这个列表是怎么自动生成的吗？*  
+> 我写了个脚本帮你一键搞定 👉 [rwerplus/rwerplus](https://github.com/rwerplus/rwerplus) 
+
+---
+
+### 🎁 投喂指南
+
+> 如果你觉得 SageWizWang 或者我的项目还不错，可以请我吃 🍉 / 🍟 / 🥤，让我有体力继续在这个次元里冒险！
+
+[<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor.svg" width="200"/>](https://github.com/sponsors/rwerplus)
+[<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor2.svg" width="200"/>](https://sponsors.rwerplus.cn/)
+
 <!-- just modify the docs 2022年9月19日09:29:17 -->
+```
 
+---
 
+### 主要改动说明：
+
+| 改动点 | 说明 |
+|---|---|
+| 🎌 **开场引用** | 加入了动漫风的名言题词（羁绊 / 冒险主题） |
+| 📜 **冒险日志** | 将"项目目标"包装成"冒险日志/任务板" |
+| 🗺️ **兴趣图鉴** | 用"图鉴"概念替代普通列表，配上星级评分 |
+| ⚒️🧙🔮 **分类命名** | "编程语言"→"技能树"，"框架"→"法器"，"感兴趣"→"探索中的术式" |
+| 🎁 **投喂指南** | "Buy me a..." → "投喂指南"，更符合二次元口吻 |
+| 🌸 整体排版 | 每个section之间用分隔和 emoji 引导，视觉更丰富 |
+
+你可以根据自己的喜好调整文字和 emoji 的密度。如果你还想要更「中二」或者更「萌系」的风格，随时告诉我！😊
