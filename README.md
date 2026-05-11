@@ -1,6 +1,4 @@
-以下是你改写后的 README，加入了二次元/动漫风元素，同时保留了所有原始信息：
 
-```markdown
 ### Hi there, I'm [rwerplus](https://rwerplus.github.io/)（SageWizWang） <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 > 🍃 *「羁绊，才是我真正的力量。」* —— 也许这就是开源的魅力吧。  
@@ -114,20 +112,4 @@
 [<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor.svg" width="200"/>](https://github.com/sponsors/rwerplus)
 [<img src="https://cdn.jsdelivr.net/gh/rwerplus/rwerplus/sponsor2.svg" width="200"/>](https://sponsors.rwerplus.cn/)
 
-<!-- just modify the docs 2022年9月19日09:29:17 -->
 ```
-
----
-
-### 主要改动说明：
-
-| 改动点 | 说明 |
-|---|---|
-| 🎌 **开场引用** | 加入了动漫风的名言题词（羁绊 / 冒险主题） |
-| 📜 **冒险日志** | 将"项目目标"包装成"冒险日志/任务板" |
-| 🗺️ **兴趣图鉴** | 用"图鉴"概念替代普通列表，配上星级评分 |
-| ⚒️🧙🔮 **分类命名** | "编程语言"→"技能树"，"框架"→"法器"，"感兴趣"→"探索中的术式" |
-| 🎁 **投喂指南** | "Buy me a..." → "投喂指南"，更符合二次元口吻 |
-| 🌸 整体排版 | 每个section之间用分隔和 emoji 引导，视觉更丰富 |
-
-你可以根据自己的喜好调整文字和 emoji 的密度。如果你还想要更「中二」或者更「萌系」的风格，随时告诉我！😊
